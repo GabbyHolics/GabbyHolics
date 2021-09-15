@@ -15,7 +15,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ## About me
 
 ```
-Besides Front-End Development , I like to seek personal growth and share my experiencies and stories with others, through meaningful coversations.
+Besides Front-End Development , I like to seek personal growth and share 
+my experiencies and stories with others, through meaningful coversations.
 
 ```
 ## ✉️ Contact
@@ -29,9 +30,9 @@ You can find me on
 <!-- Icons -->
 
 [1.2]: https://img.icons8.com/color/48/000000/linkedin-circled--v4.png 
-[2.2]: https://img.icons8.com/dusk/32/000000/instagram-new.png
+
 
 <!-- Links to your social media accounts -->
 
-[1]: www.linkedin.com/in/gabbyholics
-[2]: https://www.instagram.com/vekid/
+[1]: https://www.linkedin.com/in/gabbyholics/
+
