@@ -13,7 +13,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ## NOW 
 
 - 🧘🏽‍♀️ I'm a human
-- 🌱 I’m currently learning : **React.js Bootstrap Firebase**
+- 🌱 I’m currently learning : **, Vue.Js React.js Bootstrap Firebase**
 - 💻 Working with: **JavaScript, NodeJS, Firebase, HTML and CSS**.
 - 🛠 Other tools: **Git, Canvas , Notion, Trello.**
 - ⚡️ Fun fact:I love to dance until my feet hurt 
